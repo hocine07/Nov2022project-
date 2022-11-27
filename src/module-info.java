@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lhouc
+ *
+ */
+module javaProgram {
+}
